@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
           seedColor: const Color.fromARGB(255, 43, 133, 70),
         ),
       ),
-      home: const MyHomePage(title: 'My First Flutter App'),
+      home: const MyHomePage(title: 'Meu Primeiro App Flutter'),
     );
   }
 }
